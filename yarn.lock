@@ -2803,15 +2803,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"docus-starter@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "docus-starter@workspace:."
-  dependencies:
-    "@nuxt-themes/docus": ^1.1.5
-    nuxt: ^3.0.0
-  languageName: unknown
-  linkType: soft
-
 "dom-serializer@npm:^1.0.1":
   version: 1.4.1
   resolution: "dom-serializer@npm:1.4.1"
@@ -8000,6 +7991,15 @@ __metadata:
   checksum: 8a278bed123aa9f53549b256a36b719e317c8b96fe86a63406f3c62887f78267cea9b22dc6f7007009738509800d4a4dccc444abd71d762287c90f35b002eb1c
   languageName: node
   linkType: hard
+
+"technologies@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "technologies@workspace:."
+  dependencies:
+    "@nuxt-themes/docus": ^1.1.5
+    nuxt: ^3.0.0
+  languageName: unknown
+  linkType: soft
 
 "terser@npm:^5.0.0":
   version: 5.16.1
