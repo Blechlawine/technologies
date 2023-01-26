@@ -43,6 +43,10 @@ The best Markdown editor.
 -   easy to use and understand
 -   great Apps for all platforms (Windows, Mac, Linux, Android, iOS)
 
+### Cons
+
+-   Not open source
+
 ---
 
 ## Neovim
