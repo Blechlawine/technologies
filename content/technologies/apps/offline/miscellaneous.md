@@ -6,7 +6,7 @@ Miscellaneous apps.
 
 ## Syncthing
 
-[Website](https://syncthing.net/)
+[Website (https://syncthing.net/)](https://syncthing.net/)
 
 ### Pros
 
@@ -25,7 +25,7 @@ Miscellaneous apps.
 
 ## Zorin connect / KDE connect
 
-[Website](https://kdeconnect.kde.org/)
+[Website (https://kdeconnect.kde.org/)](https://kdeconnect.kde.org/)
 
 Zorin connect is a fork of KDE connect with a more modern looking mobile app and built into the Ubuntu-based Linux Distro Zorin OS.
 

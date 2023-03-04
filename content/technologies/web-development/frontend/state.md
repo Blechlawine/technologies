@@ -2,13 +2,28 @@
 
 ---
 
+## For every Framework
+
+### X-state
+
+[Github](https://github.com/statelyai/xstate)
+
+State-machines for very complicated state, with visualization
+
+| Pros                               | Cons |
+| ---------------------------------- | ---- |
+| VS-code extension                  |      |
+| Compatible with Vue, Svelte, React |      |
+
+---
+
 ## Vue
 
 Due to great built-in state-management you don't need a state-management library. But if you do need one, here's the best one:
 
 ### Pinia
 
-[Website](https://pinia.vuejs.org/)
+[Website (https://pinia.vuejs.org/)](https://pinia.vuejs.org/)
 
 In my opinion the best state-management library ever
 
@@ -50,7 +65,7 @@ Due to great built-in state-management you don't need a state-management library
 
 ### Redux
 
-[Website](https://redux.js.org/)
+[Website (https://redux.js.org/)](https://redux.js.org/)
 
 #### Cons
 

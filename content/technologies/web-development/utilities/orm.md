@@ -4,7 +4,7 @@
 
 ## Prisma
 
-[Website](https://www.prisma.io/)
+[Website (https://www.prisma.io/)](https://www.prisma.io/)
 
 ### Pros
 
@@ -19,9 +19,17 @@
 
 ---
 
+## OrchidORM
+
+[Website (https://orchid-orm.netlify.app)](https://orchid-orm.netlify.app)
+
+Another typesafe ORM, like a mix between prisma and typeorm
+
+---
+
 ## TypeORM
 
-[Website](https://typeorm.io/)
+[Website (https://typeorm.io/)](https://typeorm.io/)
 
 ### Pros
 
@@ -37,7 +45,7 @@
 
 ## Sequelize
 
-[Website](https://sequelize.org/)
+[Website (https://sequelize.org/)](https://sequelize.org/)
 
 ### Pros
 

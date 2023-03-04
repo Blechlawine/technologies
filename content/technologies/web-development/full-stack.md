@@ -6,7 +6,7 @@ Next, Nuxt, etc. Meta-frameworks that can do almost anything and are a great sta
 
 ## Astro
 
-[https://astro.build/](https://astro.build/)
+[Website (https://astro.build/)](https://astro.build/)
 
 ### Pros
 
@@ -24,7 +24,7 @@ Next, Nuxt, etc. Meta-frameworks that can do almost anything and are a great sta
 
 ## Nuxt (3)
 
-[https://nuxt.com/](https://nuxt.com/)
+[Website (https://nuxt.com/)](https://nuxt.com/)
 
 ### Pros
 
@@ -36,7 +36,7 @@ Next, Nuxt, etc. Meta-frameworks that can do almost anything and are a great sta
 -   SSR, SSG, Hybrid-rendering supported
 -   File-based routing
 -   Vite
--   Types flow through the API with useFetch, just like trpc, but without trpc 🤯
+-   Response-types flow through the API with useFetch, just like trpc, but without trpc
 
 ### Cons
 
@@ -46,7 +46,7 @@ Next, Nuxt, etc. Meta-frameworks that can do almost anything and are a great sta
 
 ## Sveltekit
 
-[https://kit.svelte.dev/](https://kit.svelte.dev/)
+[Website (https://kit.svelte.dev/)](https://kit.svelte.dev/)
 
 ### Pros
 
@@ -62,7 +62,7 @@ Next, Nuxt, etc. Meta-frameworks that can do almost anything and are a great sta
 
 ## Solid-start
 
-[https://start.solidjs.com/](https://start.solidjs.com/)
+[Website (https://start.solidjs.com/)](https://start.solidjs.com/)
 
 I haven't used this one myself, but it looks very promising.
 
@@ -81,10 +81,19 @@ I haven't used this one myself, but it looks very promising.
 
 ---
 
+## Fresh
+
+[Website (https://fresh.deno.dev/)](https://fresh.deno.dev/)
+
+Island full-stack framework with Deno and Preact.
+
+---
+
 ## Next js
 
-[https://nextjs.org/](https://nextjs.org/)
-[https://create.t3.gg/](https://create.t3.gg/)
+[Website (https://nextjs.org/)](https://nextjs.org/)
+
+[t3-stack (https://create.t3.gg/)](https://create.t3.gg/)
 
 Next js is a great starting point for full-stack React apps. Especially with the t3 stack (typescript, tRPC, prisma, React)
 

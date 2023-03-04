@@ -1,12 +1,10 @@
 # Rust
 
-I haven't tried any rust web-servers yet, but they should have some advantage with speed.
-
 ---
 
 ## Rocket
 
-[Website](https://rocket.rs/)
+[Website (https://rocket.rs/)](https://rocket.rs/)
 
 ### Pros
 

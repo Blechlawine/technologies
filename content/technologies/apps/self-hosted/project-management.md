@@ -4,7 +4,7 @@
 
 ## Planka
 
-[Website](https://planka.app/)
+[Website (https://planka.app/)](https://planka.app/)
 
 An open-source project management solution
 

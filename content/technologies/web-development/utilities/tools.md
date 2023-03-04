@@ -4,7 +4,8 @@
 
 ## Slidev
 
-[Website](https://sli.dev/)
+[Website (https://sli.dev/)](https://sli.dev/)
+
 [Github](https://github.com/slidevjs/slidev)
 
 Vue and Markdown-based presentation framework.
@@ -31,7 +32,7 @@ more easily write javascript scripts
 
 ## Docus
 
-[Website](https://docus.dev/)
+[Website (https://docus.dev/)](https://docus.dev/)
 
 Framework based on Nuxt 3 for building documentation sites
 (This site is built with Docus)

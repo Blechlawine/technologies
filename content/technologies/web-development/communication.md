@@ -6,7 +6,7 @@ These are for specific/easier communication between the frontend and backend. So
 
 ## tRPC
 
-[Website](https://trpc.io/)
+[Website (https://trpc.io/)](https://trpc.io/)
 
 Great for when the entire codebase is under your control.
 
@@ -23,14 +23,14 @@ Great for when the entire codebase is under your control.
 
 -   Monorepo is a requirement for the type-safety, which might not be suitable for some code-bases
 -   Only easily consumable with the tRPC-client
--   Have to use typescript
+-   Have to use typescript on the frontend and backend
 -   Not easy to retrofit into old code
 
 ---
 
 ## GraphQL
 
-[Website](https://graphql.org/)
+[Website (https://graphql.org/)](https://graphql.org/)
 
 Query language for your API. Great for when you don't know which specific data the client is going to want from your API.
 

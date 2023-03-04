@@ -22,7 +22,7 @@ A collection of useful composables for Vue 3. Completely treeshakeable.
 
 ### Vueflow
 
-[Website](https://vueflow.dev/)
+[Website (https://vueflow.dev/)](https://vueflow.dev/)
 
 Flowcharts and nodes and stuff with vue
 

@@ -4,7 +4,7 @@
 
 ## Zod
 
-[Website](https://zod.dev/)
+[Website (https://zod.dev/)](https://zod.dev/)
 
 ### Pros
 
@@ -22,3 +22,15 @@ I haven't used this one myself.
 ### Pros
 
 -   smol bundle https://bundlephobia.com/package/superstruct
+
+---
+
+## Validator.js
+
+[NPM](https://www.npmjs.com/package/validator.js)
+
+Functions to validate strings better
+
+| Pros | Cons       |
+| ---- | ---------- |
+|      | pretty old |

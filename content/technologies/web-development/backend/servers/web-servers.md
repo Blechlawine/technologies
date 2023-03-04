@@ -6,7 +6,7 @@ Web-servers as reverse proxy or a static file server
 
 ## Caddy
 
-[Website](https://caddyserver.com/)
+[Website (https://caddyserver.com/)](https://caddyserver.com/)
 
 ### Pros
 
@@ -24,7 +24,7 @@ Web-servers as reverse proxy or a static file server
 
 ## Nginx
 
-[Website](https://www.nginx.com/)
+[Website (https://www.nginx.com/)](https://www.nginx.com/)
 
 ### Pros
 

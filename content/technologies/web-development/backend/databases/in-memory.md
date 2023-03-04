@@ -4,7 +4,7 @@
 
 ## Dragonfly
 
-[Website](https://dragonflydb.io/)
+[Website (https://dragonflydb.io/)](https://dragonflydb.io/)
 
 ### Pros
 
@@ -15,7 +15,7 @@
 
 ## Redis
 
-[Website](https://redis.io/)
+[Website (https://redis.io/)](https://redis.io/)
 
 ### Pros
 

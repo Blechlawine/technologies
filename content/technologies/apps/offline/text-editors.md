@@ -7,6 +7,7 @@ Applications to write code or text in.
 ## VS-code / VS-codium
 
 [Website (VS-code)](https://code.visualstudio.com/)
+
 [Website (VS-codium)](https://vscodium.com/)
 
 Probably the most powerful code editor / IDE. VS-code is open-source and made and maintained by Microsoft, but VS-codium is a clone without all the microsoft "features".
@@ -71,7 +72,8 @@ A newer Vim.
 
 ## Helix
 
-[Website](https://helix-editor.com/)
+[Website (https://helix-editor.com/)](https://helix-editor.com/)
+
 A newer newer Vim
 
 ### Pros

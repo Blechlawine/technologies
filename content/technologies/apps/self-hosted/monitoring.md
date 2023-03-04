@@ -14,6 +14,6 @@ Amazing for monitoring the uptime of multiple Services, and to get notified when
 
 ## Grafana
 
-[Website](https://grafana.com/)
+[Website (https://grafana.com/)](https://grafana.com/)
 
 Has multiple tools for different monitoring tasks, like Log-aggregation and other metrics.

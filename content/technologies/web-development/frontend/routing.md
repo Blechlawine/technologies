@@ -4,7 +4,7 @@
 
 ## Tanstack Router
 
-[Website](https://tanstack.com/router/v1)
+[Website (https://tanstack.com/router/v1)](https://tanstack.com/router/v1)
 
 Framework agnostic typesafe router
 

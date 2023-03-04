@@ -1,10 +1,10 @@
-# UI
+# UI-libraries
 
 ---
 
 ## Floating UI
 
-[Website](https://floating-ui.com/)
+[Website (https://floating-ui.com/)](https://floating-ui.com/)
 
 Things for making elements float on screen, and not off screen
 
@@ -16,7 +16,7 @@ Things for making elements float on screen, and not off screen
 
 ## Anu
 
-[Website](https://anu-vue.netlify.app/)
+[Website (https://anu-vue.netlify.app/)](https://anu-vue.netlify.app/)
 
 Finally a UI-library with a nice design and a nice DX based on unocss
 
@@ -31,7 +31,7 @@ Finally a UI-library with a nice design and a nice DX based on unocss
 
 ## Skeleton
 
-[Website](https://www.skeleton.dev/)
+[Website (https://www.skeleton.dev/)](https://www.skeleton.dev/)
 
 Svelte UI library with a nice design based on tailwind
 

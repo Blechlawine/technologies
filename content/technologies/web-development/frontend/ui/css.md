@@ -4,7 +4,7 @@
 
 ## Tailwindcss
 
-[Website](https://tailwindcss.com/)
+[Website (https://tailwindcss.com/)](https://tailwindcss.com/)
 
 CSS Utility classes
 
@@ -44,7 +44,7 @@ An atomic CSS engine. Will apparently power Windicss 4.
 
 ## Windicss
 
-[Website](https://windicss.org/)
+[Website (https://windicss.org/)](https://windicss.org/)
 
 CSS Utility classes, just like tailwindcss
 

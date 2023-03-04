@@ -6,7 +6,7 @@ Yes some of these are technically libraries, not frameworks, but everyone calls 
 
 ## Vue
 
-[Website](https://vuejs.org/)
+[Website (https://vuejs.org/)](https://vuejs.org/)
 
 Its pronounced /vjuː/, like view. This is my personal favorite frontend framework and I tried most of the ones on this list.
 
@@ -28,7 +28,7 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 ## Svelte
 
-[Website](https://svelte.dev/)
+[Website (https://svelte.dev/)](https://svelte.dev/)
 
 ### Pros
 
@@ -45,7 +45,7 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 ## Solid
 
-[Website](https://www.solidjs.com/)
+[Website (https://www.solidjs.com/)](https://www.solidjs.com/)
 
 ### Pros
 
@@ -63,7 +63,7 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 ## Preact
 
-[Website](https://preactjs.com/)
+[Website (https://preactjs.com/)](https://preactjs.com/)
 
 ### Pros
 
@@ -82,7 +82,7 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 ## React
 
-[Website](https://reactjs.org/)
+[Website (https://reactjs.org/)](https://reactjs.org/)
 
 ### Pros
 

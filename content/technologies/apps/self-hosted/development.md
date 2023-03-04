@@ -41,7 +41,8 @@ probably the most popular choice for a self-hosted git server
 ## Verdaccio
 
 [Github](https://github.com/verdaccio/verdaccio)
-[Website](https://verdaccio.org/)
+
+[Website (https://verdaccio.org/)](https://verdaccio.org/)
 
 A self-hosted lightweight Node.js private proxy registry
 
@@ -49,6 +50,14 @@ A self-hosted lightweight Node.js private proxy registry
 
 ## Prismaliser
 
-[App](https://prismaliser.app/)
+[App (https://prismaliser.app/)](https://prismaliser.app/)
 
 Visualize your prisma schema
+
+---
+
+## Trigger.dev
+
+[Website (https://trigger.dev/)](https://trigger.dev/)
+
+Open-source code-first task framework for triggering actions on i.e. webhooks

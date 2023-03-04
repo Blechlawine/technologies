@@ -30,7 +30,7 @@ All of these solutions have built-in auth and a relatively simple to use but pow
 
 ## Payload CMS
 
-[Website](https://payloadcms.com)
+[Website (https://payloadcms.com)](https://payloadcms.com)
 
 similar to directus, but you specify the schema in code and get generated types, a REST and GraphQL API, and much more.
 
@@ -46,7 +46,7 @@ similar to directus, but you specify the schema in code and get generated types,
 
 ## Keystone
 
-[Website](https://keystonejs.com/)
+[Website (https://keystonejs.com/)](https://keystonejs.com/)
 
 Similar to directus, except you specify the schema in a typescript file and only get a graphql API.
 
@@ -64,6 +64,8 @@ Similar to directus, except you specify the schema in a typescript file and only
 
 ## Pocketbase
 
+<!-- TODO: add Pocketbase website -->
+
 ### Pros
 
 -   realtime API
@@ -78,6 +80,8 @@ Similar to directus, except you specify the schema in a typescript file and only
 ---
 
 ## Supabase
+
+<!-- TODO: add Supabase website -->
 
 ### Pros
 
