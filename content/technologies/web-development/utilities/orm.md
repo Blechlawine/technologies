@@ -6,16 +6,11 @@
 
 [Website (https://www.prisma.io/)](https://www.prisma.io/)
 
-### Pros
-
--   Great types
--   works great with tRPC
--   Simple but powerful schema language
-
-### Cons
-
--   Entire schema in one file
--   Schema is written in its own language
+| Pros                                | Cons                                                |
+| ----------------------------------- | --------------------------------------------------- |
+| Great types                         | Entire schema is in one file                        |
+| Works great with tRPC               | Schema is written in its own language               |
+| Simple but powerful schema language | Relies on code-gen to generate types for Typescript |
 
 ---
 
@@ -31,15 +26,11 @@ Another typesafe ORM, like a mix between prisma and typeorm
 
 [Website (https://typeorm.io/)](https://typeorm.io/)
 
-### Pros
-
--   Schema is split into classes
--   easily extendable, even if you don't have access to change the entire schema
--   great typescript support
-
-### Cons
-
--   Types from the schema have a bunch of functions on them, which makes them incompatible with sending types to the client
+| Pros                                                                          | Cons                                                                    |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Schema is split into classes                                                  | Types from the schema are difficult to work with for API type-inference |
+| Easily extendable, event if you don't have access to change the entire schema |                                                                         |
+| Great Typescript support                                                      |                                                                         |
 
 ---
 
@@ -47,10 +38,6 @@ Another typesafe ORM, like a mix between prisma and typeorm
 
 [Website (https://sequelize.org/)](https://sequelize.org/)
 
-### Pros
-
--   great for simple setups without typescript
-
-### Cons
-
--   terrible typescript support
+| Pros                                       | Cons                        |
+| ------------------------------------------ | --------------------------- |
+| Great for simple setups without Typescript | Terrible Typescript support |

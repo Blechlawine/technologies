@@ -11,14 +11,14 @@
 Vue and Markdown-based presentation framework.
 `yarn create slidev`
 
-### Pros
-
--   Slides are Markdown and/or Vue-components
--   Customizable themeing
--   export to PDF, images, etc.
--   Interactive coding IN THE PRESENTATION?!??!!
--   Presenter mode to trigger slides on different monitor, or different machine
--   Animations
+| Pros                                                  | Cons |
+| ----------------------------------------------------- | ---- |
+| Slides are Markdown and/or Vue-components             |      |
+| Customizable themeing                                 |      |
+| Export to PDF, images, etc.                           |      |
+| Interactive coding in the presentation                |      |
+| Presenter mode to trigger slides on different monitor |      |
+| Animations                                            |      |
 
 ---
 

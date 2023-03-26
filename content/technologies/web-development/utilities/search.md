@@ -12,16 +12,12 @@ Full-text search library for use in the browser
 
 ---
 
-## Lyra
+## Orama (previously Lyra)
 
 [Docs](https://docs.lyrasearch.io/)
 
 Fully javascript full-text search
 
-### Pros
-
--   Apparently really fast
-
-### Cons
-
--   no 1.0 release yet
+| Pros                   | Cons               |
+| ---------------------- | ------------------ |
+| Apparently really fast | no 1.0 release yet |

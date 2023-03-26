@@ -24,9 +24,8 @@ The best way to start a Frontend application with one of Vue, Svelte, Vanilla JS
 
 A Linter and Formatter (soon: Compiler, Bundler, Testing) for Javascript and Typescript. Built with Rust, inspired by rust-analyzer.
 
-| ➕ Pros                    | ➖ Cons |
-| -------------------------- | ------- |
-| VS-Code, Neovim extensions |         |
-| configurable               |         |
-| Works without any configs  |         |
-
+| Pros                       | Cons |
+| -------------------------- | ---- |
+| VS-Code, Neovim extensions |      |
+| configurable               |      |
+| Works without any configs  |      |

@@ -6,10 +6,12 @@
 
 [Website (https://zod.dev/)](https://zod.dev/)
 
-### Pros
+| Pros                       | Cons |
+| -------------------------- | ---- |
+| Amazing Typescript support |      |
+| Decently small bundle size |      |
 
--   Amazing Typescript support
--   decent bundle size https://bundlephobia.com/package/zod
+Note on the bundle size: [Bundlephobia](https://bundlephobia.com/package/zod)
 
 ---
 
@@ -19,9 +21,11 @@
 
 I haven't used this one myself.
 
-### Pros
+| Pros              | Cons |
+| ----------------- | ---- |
+| Small bundle size |      |
 
--   smol bundle https://bundlephobia.com/package/superstruct
+Note on the bundle size: [Bundlephobia](https://bundlephobia.com/package/superstruct)
 
 ---
 
