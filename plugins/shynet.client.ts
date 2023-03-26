@@ -10,57 +10,58 @@ export default defineNuxtPlugin((nuxtApp) => {
         idempotency: null as string | null,
         heartbeatTaskId: null as NodeJS.Timer | null,
         skipHeartbeat: false,
-        sendHeartbeat: function () {
-            try {
-                if (document.hidden || Shynet.skipHeartbeat) {
-                    return;
-                }
-
-                Shynet.skipHeartbeat = true;
-                var xhr = new XMLHttpRequest();
-                xhr.open(
-                    "POST",
-                    "https://shynet.zmarc.de/ingress/d9ed8937-cfc3-4482-a0be-955ed70dde0e/script.js",
-                    true,
-                );
-                xhr.setRequestHeader("Content-Type", "application/json");
-                xhr.onload = function () {
-                    Shynet.skipHeartbeat = false;
-                };
-                xhr.onerror = function () {
-                    Shynet.skipHeartbeat = false;
-                };
-                xhr.send(
-                    JSON.stringify({
-                        idempotency: Shynet.idempotency,
-                        referrer: document.referrer,
-                        location: window.location.href,
-                        loadTime:
-                            window.performance.timing.domContentLoadedEventEnd -
-                            window.performance.timing.navigationStart,
-                    }),
-                );
-            } catch (e) {}
-        },
-        newPageLoad: function () {
-            if (Shynet.heartbeatTaskId != null) {
-                clearInterval(Shynet.heartbeatTaskId);
-            }
-            Shynet.idempotency =
-                Math.random().toString(36).substring(2, 15) +
-                Math.random().toString(36).substring(2, 15);
-            Shynet.skipHeartbeat = false;
-            Shynet.heartbeatTaskId = setInterval(Shynet.sendHeartbeat, parseInt("5000"));
-            Shynet.sendHeartbeat();
-        },
     };
 
-    // window.addEventListener("load", Shynet.newPageLoad);
+    function sendHeartbeat() {
+        try {
+            if (document.hidden || Shynet.skipHeartbeat) {
+                return;
+            }
 
-    nuxtApp.hook("page:transition:finish", (pageComponent) => {
-        console.log("page:transition:finish", pageComponent);
-        if (Shynet) {
-            Shynet.newPageLoad();
+            Shynet.skipHeartbeat = true;
+            var xhr = new XMLHttpRequest();
+            xhr.open(
+                "POST",
+                "https://shynet.zmarc.de/ingress/d9ed8937-cfc3-4482-a0be-955ed70dde0e/script.js",
+                true,
+            );
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.onload = function () {
+                Shynet.skipHeartbeat = false;
+            };
+            xhr.onerror = function () {
+                Shynet.skipHeartbeat = false;
+            };
+            xhr.send(
+                JSON.stringify({
+                    idempotency: Shynet.idempotency,
+                    referrer: document.referrer,
+                    location: window.location.href,
+                    loadTime:
+                        window.performance.timing.domContentLoadedEventEnd -
+                        window.performance.timing.navigationStart,
+                }),
+            );
+        } catch (e) {}
+    }
+
+    function newPageLoad() {
+        if (Shynet.heartbeatTaskId != null) {
+            clearInterval(Shynet.heartbeatTaskId);
         }
+        Shynet.idempotency =
+            Math.random().toString(36).substring(2, 15) +
+            Math.random().toString(36).substring(2, 15);
+        Shynet.skipHeartbeat = false;
+        Shynet.heartbeatTaskId = setInterval(sendHeartbeat, 5000);
+        sendHeartbeat();
+    }
+
+    nuxtApp.hook("app:mounted", () => {
+        newPageLoad();
+    });
+
+    nuxtApp.hook("page:finish", (pageComponent) => {
+        newPageLoad();
     });
 });
