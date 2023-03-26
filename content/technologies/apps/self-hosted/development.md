@@ -8,17 +8,13 @@
 
 A Self-hosted Git Server with Kanban and CI/CD
 
-### Pros
-
--   Beautiful UI imo
--   Dark mode
--   Everything you expect from a git server
--   CI/CD
--   Open-source
-
-### Cons
-
--   not as widely used as for example Gitlab
+| Pros                                    | Cons                                       |
+| --------------------------------------- | ------------------------------------------ |
+| Beautiful UI in my opinion              | Not as widely used as, for example, GitLab |
+| Dark mode                               |                                            |
+| Everything you expect from a git server |                                            |
+| CI/CD                                   |                                            |
+| Open-source                             |                                            |
 
 ---
 
@@ -26,15 +22,11 @@ A Self-hosted Git Server with Kanban and CI/CD
 
 probably the most popular choice for a self-hosted git server
 
-### Pros
-
--   very powerful
--   Everything you expect from a git server
--   CI/CD
-
-### Cons
-
--   No dark mode
+| Pros                                    | Cons         |
+| --------------------------------------- | ------------ |
+| Very powerful                           | No dark mode |
+| Everything you expect from a git server |              |
+| CI/CD                                   |              |
 
 ---
 

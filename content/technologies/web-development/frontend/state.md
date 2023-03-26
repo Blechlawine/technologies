@@ -47,27 +47,27 @@ Due to great built-in state-management you don't need a state-management library
 
 [Github](https://github.com/pmndrs/zustand)
 
-#### Pros
-
--   Great for more complex state, or state that you want to change from outside your components
--   small bundle size
--   almost no boilerplate
+| Pros                                                                                        | Cons |
+| ------------------------------------------------------------------------------------------- | ---- |
+| Great for more complex state, ot state that you want to change from outside your components |      |
+| Small bundle size                                                                           |      |
+| Almost no boilerplate                                                                       |      |
 
 ### Jotai
 
 [Github](https://github.com/pmndrs/jotai)
 
-#### Pros
-
--   great if you just want to share some simple state between components
--   small bundle size
--   no boilerplate
+| Pros                                                                 | Cons |
+| -------------------------------------------------------------------- | ---- |
+| Great if you just want to share some simple state between components |      |
+| Small bundle size                                                    |      |
+| No Boilerplate                                                       |      |
 
 ### Redux
 
 [Website (https://redux.js.org/)](https://redux.js.org/)
 
-#### Cons
-
--   Needs a literal truck load of boilerplate
--   Can apparently be even used with other frontend frameworks, but those other frontend frameworks have better state-management built in
+| Pros | Cons                                                                                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
+|      | Needs a literal truck load of boilerplate                                                                                            |
+|      | Can apparently even be used with other frontend frameworks, but thos other frontend frameworks have better state-management built in |

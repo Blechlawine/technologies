@@ -8,17 +8,13 @@ Web-servers as reverse proxy or a static file server
 
 [Website (https://caddyserver.com/)](https://caddyserver.com/)
 
-### Pros
-
--   Fast
--   Really easy to configure
--   configurable via an api (optional)
--   automatic SSL
--   can probably do everything you would want from a web-server
-
-### Cons
-
--   not as popular as for example nginx
+| Pros                                                        | Cons                                  |
+| ----------------------------------------------------------- | ------------------------------------- |
+| Fast                                                        | Not as popular as, for example, nginx |
+| Really easy to configure                                    |                                       |
+| Configurable via an API (optional)                          |                                       |
+| Automatic SSL                                               |                                       |
+| Can probably do everything you would want from a web-server |                                       |
 
 ---
 
@@ -26,13 +22,8 @@ Web-servers as reverse proxy or a static file server
 
 [Website (https://www.nginx.com/)](https://www.nginx.com/)
 
-### Pros
-
--   very popular
--   Fast
--   can do everything you would want from a webserver
-
-### Cons
-
--   Configuration is pretty painful in comparison to caddy
--   no real advantages for most use-cases over Caddy
+| Pros                                              | Cons                                                   |
+| ------------------------------------------------- | ------------------------------------------------------ |
+| Very popular                                      | Configuration is pretty painful in comparison to Caddy |
+| Fast                                              | No real advantages for most use-cases over Caddy       |
+| Can do everything you would want from a webserver |                                                        |

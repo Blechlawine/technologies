@@ -6,10 +6,10 @@
 
 [Website (https://dragonflydb.io/)](https://dragonflydb.io/)
 
-### Pros
-
--   same API as redis
--   apparently 25x faster
+| Pros                             | Cons |
+| -------------------------------- | ---- |
+| Same API as Redis                |      |
+| Apparently 25x faster than Redis |      |
 
 ---
 
@@ -17,8 +17,8 @@
 
 [Website (https://redis.io/)](https://redis.io/)
 
-### Pros
-
--   a Fuck ton of features
--   can also store persistent data?
--   can serve as a kind-of event loop for your server (medusajs uses this)
+| Pros                                              | Cons |
+| ------------------------------------------------- | ---- |
+| A lot of features                                 |      |
+| Can also store persistent data?                   |      |
+| Can serve as a kind-of event loop for your server |      |

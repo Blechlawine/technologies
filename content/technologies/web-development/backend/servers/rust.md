@@ -6,10 +6,10 @@
 
 [Website (https://rocket.rs/)](https://rocket.rs/)
 
-### Pros
-
--   Templates
--   typed URIs
--   native JSON support
--   Form support
--   little amount of boilerplate
+| Pros                         | Cons |
+| ---------------------------- | ---- |
+| Templates                    |      |
+| Typed URIs                   |      |
+| Native JSON support          |      |
+| Form support                 |      |
+| Little amount of boilerplate |      |

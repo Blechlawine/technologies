@@ -9,16 +9,11 @@ Yes, you can write your server in the same language as your web-frontend.
 [Website (https://nitro.unjs.io/)](https://nitro.unjs.io/)
 [Github](https://github.com/unjs/h3)
 
-### Pros
-
--   Great typescript support
--   File-based routing
--   really, really fast to setup with nitropack
-
-### Cons
-
--   Documentation is not great
--   No Websockets currently (December 2022)
+| Pros                                 | Cons                             |
+| ------------------------------------ | -------------------------------- |
+| Great Typescript support             | Documentation is not great       |
+| File-based routing                   | No Websockets currently (Dec 22) |
+| Really fast to set up with Nitropack |                                  |
 
 ---
 
@@ -28,17 +23,12 @@ Yes, you can write your server in the same language as your web-frontend.
 
 The popular choice
 
-### Pros
-
--   Popular
--   Template engines for easy SSR
--   Documentation is good, also a lot of tutorials
--   Web-sockets support
-
-### Cons
-
--   Typescript support is not good
--   Manual routing
+| Pros                             | Cons                        |
+| -------------------------------- | --------------------------- |
+| Popular                          | Typescript support not good |
+| Template engines for easy SSR    | Manual routing              |
+| Good documentation and tutorials |                             |
+| Websockets support               |                             |
 
 ---
 
@@ -46,15 +36,11 @@ The popular choice
 
 I haven't used this one myself (yet)
 
-### Pros
-
--   can be used with Express or Fastify
--   Looks robust and good for large codebases
--   Web-socket support
-
-### Cons
-
--   Looks very boilerplatey
+| Pros                                      | Cons                    |
+| ----------------------------------------- | ----------------------- |
+| Can be used with Express or Fastify       | Looks very boilerplatey |
+| Looks robust and good for large codebases |                         |
+| Web-socket support                        |                         |
 
 ---
 
@@ -62,6 +48,6 @@ I haven't used this one myself (yet)
 
 I haven't used this one myself (yet)
 
-### Pros
-
--   the most capable tRPC adapter for a standalone server
+| Pros                                                                                               | Cons |
+| -------------------------------------------------------------------------------------------------- | ---- |
+| The most capable tRPC adapter for a standalone server other than the completely standalone version |      |

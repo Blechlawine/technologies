@@ -8,11 +8,7 @@
 
 Framework agnostic typesafe router
 
-### Pros
-
--   typesafe routes 🤯
--   will work with Vue, Svelte, Solid, Preact, React
-
-### Cons
-
--   In Beta (January 2023)
+| Pros                                               | Cons                 |
+| -------------------------------------------------- | -------------------- |
+| Typesafe routes 🤯                                 | In Beta (March 2023) |
+| Should work with Vue, Svelte, Solid, Preact, React |                      |

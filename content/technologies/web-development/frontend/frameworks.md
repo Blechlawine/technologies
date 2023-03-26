@@ -10,19 +10,15 @@ Yes some of these are technically libraries, not frameworks, but everyone calls 
 
 Its pronounced /vjuː/, like view. This is my personal favorite frontend framework and I tried most of the ones on this list.
 
-### Pros
-
--   Vite is the recommended way of creating a Vue app
--   Popular
--   Great typescript support
--   Documentation is great
--   Single-file-components
--   requires less code for the same functionality than most other frameworks
--   built-in app state-management
-
-### Cons
-
--   🤷
+| Pros                                                                     | Cons |
+| ------------------------------------------------------------------------ | ---- |
+| Vite is the recommended way of creating a Vue app                        | 🤷   |
+| Popular                                                                  |      |
+| Great Typescript support                                                 |      |
+| Great documentation                                                      |      |
+| Single-file-components                                                   |      |
+| Requires less code for the same functionality than most other frameworks |      |
+| Built-in app state management                                            |      |
 
 ---
 
@@ -30,16 +26,12 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 [Website (https://svelte.dev/)](https://svelte.dev/)
 
-### Pros
-
--   Great syntax
--   requires less code for the same functionality than most other frameworks
--   Good typescript support
--   built-in app state-management
-
-### Cons
-
--   Svelte's syntax can sometimes be very weird
+| Pros                                                                     | Cons                                   |
+| ------------------------------------------------------------------------ | -------------------------------------- |
+| Great syntax                                                             | Svelte's syntax can sometimes be weird |
+| Requires less code for the same functionality than most other frameworks |                                        |
+| Good Typescript support                                                  |                                        |
+| Built-in app state management                                            |                                        |
 
 ---
 
@@ -47,17 +39,12 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 [Website (https://www.solidjs.com/)](https://www.solidjs.com/)
 
-### Pros
-
--   Fast as fuck (aparently, I wasnt able to tell a difference to other frameworks)
--   Smol bundle
--   Decent Typescript support
--   built-in app state-management
-
-### Cons
-
--   JSX
--   Typescript support is kinda bad, but that is a problem with JSX in general
+| Pros                                                                            | Cons                                                                                      |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Really fast (aparently, I wasn'y able to tell a difference to other frameworks) | JSX                                                                                       |
+| Small bundle                                                                    | Typescript support in the template is kinda bad, but that's a problem with JSX in general |
+| Decent Typescript support                                                       |                                                                                           |
+| Built-in app state-management                                                   |                                                                                           |
 
 ---
 
@@ -65,18 +52,12 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 [Website (https://preactjs.com/)](https://preactjs.com/)
 
-### Pros
-
--   Same syntax as React, so if you know React, you can work with this
--   Tries to achieve 100% compatibility with React
--   Built-in app state-management
--   Relatively small bundle size (compared to React)
-
-### Cons
-
--   JSX
--   Same syntax as React (as in not as good as Svelte or especially Vue)
--   Docs are sometimes not totally right, if you want to use typescript
+| Pros                                                               | Cons                                                                            |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| Same syntax as React, so if you know React, you can work with this | JSX                                                                             |
+| Tries to achieve 100% compatibility with React                     | Same syntax as React (as in not as good as Svelte or especially Vue)            |
+| Built-in app state-management                                      | Docs are sometimes not completely right, if you want to use Typescript          |
+| Relatively small bundle size                                       | Two State-management solutions make it unintuitive as to how they work together |
 
 ---
 
@@ -84,18 +65,15 @@ Its pronounced /vjuː/, like view. This is my personal favorite frontend framewo
 
 [Website (https://reactjs.org/)](https://reactjs.org/)
 
-### Pros
+| Pros                   | Cons                                                                                    |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| Popular                | JSX                                                                                     |
+| Has Typescript support | Requires a third-party library for literally everything                                 |
+|                        | Typescript support in the template is kinda bad, which is a problem with JSX in general |
+|                        | Performance is terrible compared to all other options on this list                      |
+|                        | I heard it's supposed to be slow at SSR                                                 |
 
--   Popular
--   Has typescript support
-
-### Cons
-
--   JSX
--   requires a third-party library for literally everything
--   Typescript support is kinda bad, which is a problem with JSX in general
--   Performance is terrible compared to all other options on this list, even worse than Webassembly ([Framework Performance Comparison](https://javascript.plainenglish.io/javascript-frameworks-performance-comparison-2020-cd881ac21fce))
--   I heard its slow at SSR
+Note on performance: [Framework Performance Comparison](https://javascript.plainenglish.io/javascript-frameworks-performance-comparison-2020-cd881ac21fce)
 
 ---
 

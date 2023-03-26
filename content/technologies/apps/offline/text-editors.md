@@ -76,16 +76,11 @@ A newer Vim.
 
 A newer newer Vim
 
-### Pros
-
--   Sensible defaults
--   Plugins not needed, because most important things are integrated by default
--   minimal, but powerful configuration files
-
-### Cons
-
--   No Plugins
--   not as popular as Vim/Neovim -> not many tools support it
+| Pros                                                                        | Cons                                                      |
+| --------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Sensible defaults                                                           | No plugins                                                |
+| Plugins not needed, because most important things are integrated by default | Not as popular as Vim/Neovim -> not many tools support it |
+| Minimal, but powerful configuration files                                   |                                                           |
 
 ---
 
@@ -95,13 +90,9 @@ A newer newer Vim
 
 Github stopped developing Atom, but the community revived it with the Pulsar editor. I have only used Atom before, but I guess Pulsar shouldn't be too different.
 
-### Pros
-
--   A lot of extensions and themes
--   Hackable with javascript and CSS
--   Real-time collaboration through an extension
--   Git-integration
-
-### Cons
-
--   built with electron -> very memory hungry
+| Pros                                         | Cons                                      |
+| -------------------------------------------- | ----------------------------------------- |
+| A lot of extensions and themes               | Built with Electron -> very memory hungry |
+| Hackable with JavaScript and CSS             |                                           |
+| Real-time collaboration through an extension |                                           |
+| Git-integration                              |                                           |

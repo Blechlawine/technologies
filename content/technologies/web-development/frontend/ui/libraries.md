@@ -8,9 +8,9 @@
 
 Things for making elements float on screen, and not off screen
 
-### Pros
-
--   React, React Native, Vue and vanilla javascript support
+| Pros                                            | Cons |
+| ----------------------------------------------- | ---- |
+| React, React Native, Vue and vanilla JS support |      |
 
 ---
 
@@ -20,12 +20,12 @@ Things for making elements float on screen, and not off screen
 
 Finally a UI-library with a nice design and a nice DX based on unocss
 
-### Pros
-
--   For Vue
--   nice Design
--   nice DX
--   Unocss
+| Pros        | Cons |
+| ----------- | ---- |
+| For Vue     |      |
+| Nice design |      |
+| Nice DX     |      |
+| Unocss      |      |
 
 ---
 
@@ -35,13 +35,9 @@ Finally a UI-library with a nice design and a nice DX based on unocss
 
 Svelte UI library with a nice design based on tailwind
 
-### Pros
-
--   Tailwind
--   many themes, everyone with dark & light mode
--   simple light-dark switch component
--   nice Design
-
-##### Cons
-
--   still in beta (January 2023)
+| Pros                                       | Cons                         |
+| ------------------------------------------ | ---------------------------- |
+| Tailwind                                   | Still in beta (January 2023) |
+| Many themes, each with dark and light mode |                              |
+| Simple light-dark switch component         |                              |
+| Nice design                                |                              |
