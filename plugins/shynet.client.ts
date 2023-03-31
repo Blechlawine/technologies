@@ -6,7 +6,7 @@ export default defineNuxtPlugin((nuxtApp) => {
     //
     // This script only sends the current URL, the referrer URL, and the page load time. That's it!
 
-    var Shynet = {
+    const Shynet = {
         idempotency: null as string | null,
         heartbeatTaskId: null as NodeJS.Timer | null,
         skipHeartbeat: false,
@@ -19,7 +19,7 @@ export default defineNuxtPlugin((nuxtApp) => {
             }
 
             Shynet.skipHeartbeat = true;
-            var xhr = new XMLHttpRequest();
+            const xhr = new XMLHttpRequest();
             xhr.open(
                 "POST",
                 "https://shynet.zmarc.de/ingress/d9ed8937-cfc3-4482-a0be-955ed70dde0e/script.js",
