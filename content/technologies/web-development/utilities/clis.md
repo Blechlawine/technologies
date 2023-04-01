@@ -25,3 +25,13 @@ Tool for keeping dependencies updated, works with monorepos
 Cli to bootstrap any web-project
 
 :terminal{content="yarn create blech"}
+
+---
+
+# Tools for building CLIs
+
+## Gum
+
+[Github](https://github.com/charmbracelet/gum)
+
+A tool for writing interactive shell scripts

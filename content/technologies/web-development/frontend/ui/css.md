@@ -46,3 +46,19 @@ CSS Utility classes, just like tailwindcss
 | High compatibility with Tailwind CSS                          |      |
 | Attributify mode helps against long class definitions in HTML |      |
 | VS Code extension                                             |      |
+
+---
+
+## DaisyUI
+
+[Website (https://daisyui.com/)](https://daisyui.com/)
+
+More abstract CSS-classes on top of TailwindCSS for quickly building UIs
+
+---
+
+## Preline
+
+[Website (https://preline.co/index.html)](https://preline.co/index.html)
+
+Prebuilt UI components based on TailwindCSS, similar to DaisyUI

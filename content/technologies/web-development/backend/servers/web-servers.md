@@ -27,3 +27,11 @@ Web-servers as reverse proxy or a static file server
 | Very popular                                      | Configuration is pretty painful in comparison to Caddy |
 | Fast                                              | No real advantages for most use-cases over Caddy       |
 | Can do everything you would want from a webserver |                                                        |
+
+---
+
+## IPX
+
+[Website (https://unjs.io/ipx)](https://unjs.io/ipx)
+
+A easy to use image proxy based on sharp and libvips

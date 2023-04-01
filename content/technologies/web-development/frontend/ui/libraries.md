@@ -41,3 +41,17 @@ Svelte UI library with a nice design based on tailwind
 | Many themes, each with dark and light mode |                              |
 | Simple light-dark switch component         |                              |
 | Nice design                                |                              |
+
+---
+
+## Onu-ui
+
+[Website (https://onu.zyob.top/)](https://onu.zyob.top/)
+
+A Vue.js based UnoCSS UI library that allows you to make beautiful websites
+
+| Pros        | Cons |
+| ----------- | ---- |
+| For Vue     |      |
+| Nice design |      |
+| Unocss      |      |

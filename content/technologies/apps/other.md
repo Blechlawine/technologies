@@ -29,3 +29,13 @@ Markdown, but for timelines
 [Website (https://newreleases.io/)](https://newreleases.io/)
 
 Get notifications for new releases of applications automatically
+
+---
+
+# IT-tools
+
+[Github](https://github.com/CorentinTh/it-tools)
+
+[Website (https://it-tools.tech/)](https://it-tools.tech/)
+
+Self-hostable collection of useful tools for programming and IT

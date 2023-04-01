@@ -14,6 +14,22 @@
 
 ---
 
+## Drizzle ORM
+
+[Github](https://github.com/drizzle-team/drizzle-orm)
+
+This seems to be a great alternative to prisma
+
+| Pros                                                                   | Cons |
+| ---------------------------------------------------------------------- | ---- |
+| can generate migrations                                                |      |
+| no code-gen                                                            |      |
+| model definition syntax looks similar to zod validator syntax          |      |
+| has a push command like prisma (currently only for mysql (March 2023)) |      |
+| queries are made with a fully typesafe query builder                   |      |
+
+---
+
 ## OrchidORM
 
 [Website (https://orchid-orm.netlify.app)](https://orchid-orm.netlify.app)

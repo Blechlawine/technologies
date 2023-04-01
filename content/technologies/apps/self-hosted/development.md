@@ -53,3 +53,11 @@ Visualize your prisma schema
 [Website (https://trigger.dev/)](https://trigger.dev/)
 
 Open-source code-first task framework for triggering actions on i.e. webhooks
+
+---
+
+## Fauxpilot
+
+[Github](https://github.com/fauxpilot/fauxpilot)
+
+Opensource Github Copilot compatible server, which uses Salesforce Codegen models
