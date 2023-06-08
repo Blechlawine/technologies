@@ -32,7 +32,7 @@ Get notifications for new releases of applications automatically
 
 ---
 
-# IT-tools
+## IT-tools
 
 [Github](https://github.com/CorentinTh/it-tools)
 
