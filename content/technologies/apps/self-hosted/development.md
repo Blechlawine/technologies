@@ -2,7 +2,7 @@
 
 ---
 
-# Gitea
+## Gitea
 
 [Website (https://gitea.io)](https://gitea.io)
 
@@ -38,7 +38,7 @@ probably the most popular choice for a self-hosted git server
 
 ---
 
-# Shuttle.rs
+## Shuttle.rs
 
 [Website (https://shuttle.rs)](https://shuttle.rs)
 
