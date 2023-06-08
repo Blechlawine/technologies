@@ -2,6 +2,14 @@
 
 ---
 
+## Nuxtlabs/ui
+
+[Github](https://github.com/nuxtlabs/ui)
+
+Fully style and customizable components with Tailwind CSS for Nuxt
+
+---
+
 ## Floating UI
 
 [Website (https://floating-ui.com/)](https://floating-ui.com/)

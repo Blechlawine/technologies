@@ -13,3 +13,11 @@ An open-source project management solution
 | Easy to use and understand              | User and access management is not very powerful, but powerful enough for smaller teams |
 | Realtime API for seamless collaboration |                                                                                        |
 | Built-in timers for tasks               |                                                                                        |
+
+---
+
+## Plane
+
+[Github](https://github.com/makeplane/plane)
+
+Open-source Jira, Linear and Height alternative

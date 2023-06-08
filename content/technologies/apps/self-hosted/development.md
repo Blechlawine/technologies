@@ -2,6 +2,14 @@
 
 ---
 
+# Gitea
+
+[Website (https://gitea.io)](https://gitea.io)
+
+Lightweight Git server with CI/CD and builtin package repositories for Containers, Cargo, NPM and more
+
+---
+
 ## Onedev
 
 [Repository](https://code.onedev.io/onedev/server)
@@ -27,6 +35,14 @@ probably the most popular choice for a self-hosted git server
 | Very powerful                           | No dark mode |
 | Everything you expect from a git server |              |
 | CI/CD                                   |              |
+
+---
+
+# Shuttle.rs
+
+[Website (https://shuttle.rs)](https://shuttle.rs)
+
+Infrastructure from Rust code
 
 ---
 
