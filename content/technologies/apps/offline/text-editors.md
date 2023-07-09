@@ -12,21 +12,14 @@ Applications to write code or text in.
 
 Probably the most powerful code editor / IDE. VS-code is open-source and made and maintained by Microsoft, but VS-codium is a clone without all the microsoft "features".
 
-### Pros
-
--   Can do anything source-code editing related
--   A lot of extensions available
--   Decently fast
--   Real-time collaboration support, through an extension
--   Popular
--   Built with electron -> very memory hungry
--   Git-integration
-
-### Cons
-
--   VS-code is maintained by Microsoft
--   Slower than other editors
--   Not perfect for some use-cases
+| Pros                                                  | Cons                                      |
+| ----------------------------------------------------- | ----------------------------------------- |
+| Can do anything source-code editing related           | VS-code is maintained by Microsoft        |
+| A lot of extensions available                         | Built with electron -> very memory hungry |
+| Decently fast                                         | Slower than other editors                 |
+| Real-time collaboration support, through an extension | Not perfect for some use-cases            |
+| Popular                                               |                                           |
+| Git-integration                                       |                                           |
 
 ---
 
@@ -36,17 +29,13 @@ Probably the most powerful code editor / IDE. VS-code is open-source and made an
 
 The best Markdown editor.
 
-### Pros
-
--   Very Powerful
--   Extensions and themes
--   Templates for new notes
--   easy to use and understand
--   great Apps for all platforms (Windows, Mac, Linux, Android, iOS)
-
-### Cons
-
--   Not open source
+| Pros                                                             | Cons                |
+| ---------------------------------------------------------------- | ------------------- |
+| Very Powerful                                                    | Not open source     |
+| Extensions and themes                                            | Built with Electron |
+| Templates for new notes                                          |                     |
+| easy to use and understand                                       |                     |
+| great Apps for all platforms (Windows, Mac, Linux, Android, iOS) |                     |
 
 ---
 
@@ -56,17 +45,12 @@ The best Markdown editor.
 
 A newer Vim.
 
-### Pros
-
--   🔥 Blazingly fast
--   Extensions and themes, a lot
--   Hackable via Lua
--   Git-integration through extension
-
-### Cons
-
--   You need to learn the "vim way"
--   How do you exit this editor? small tip: in normal mode, type ":wq" for writing the current file and closing vim
+| Pros                              | Cons                                                                                                            |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 🔥 Blazingly fast                 | You need to learn the "vim way"                                                                                 |
+| Extensions and themes, a lot      | How do you exit this editor? small tip: in normal mode, type ":wq" for writing the current file and closing vim |
+| Hackable via Lua                  |                                                                                                                 |
+| Git-integration through extension |                                                                                                                 |
 
 ---
 

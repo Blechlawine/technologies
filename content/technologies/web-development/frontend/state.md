@@ -67,7 +67,7 @@ Due to great built-in state-management you don't need a state-management library
 
 [Website (https://redux.js.org/)](https://redux.js.org/)
 
-| Pros | Cons                                                                                                                                 |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
-|      | Needs a literal truck load of boilerplate                                                                                            |
-|      | Can apparently even be used with other frontend frameworks, but thos other frontend frameworks have better state-management built in |
+| Pros | Cons                                                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
+|      | Needs a literal truck load of boilerplate                                                                                             |
+|      | Can apparently even be used with other frontend frameworks, but those other frontend frameworks have better state-management built in |
