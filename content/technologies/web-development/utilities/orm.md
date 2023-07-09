@@ -1,20 +1,8 @@
 # ORMs
 
----
+## Typescript
 
-## Prisma
-
-[Website (https://www.prisma.io/)](https://www.prisma.io/)
-
-| Pros                                | Cons                                                |
-| ----------------------------------- | --------------------------------------------------- |
-| Great types                         | Entire schema is in one file                        |
-| Works great with tRPC               | Schema is written in its own language               |
-| Simple but powerful schema language | Relies on code-gen to generate types for Typescript |
-
----
-
-## Drizzle ORM
+### Drizzle ORM
 
 [Github](https://github.com/drizzle-team/drizzle-orm)
 
@@ -30,7 +18,19 @@ This seems to be a great alternative to prisma
 
 ---
 
-## OrchidORM
+### Prisma
+
+[Website (https://www.prisma.io/)](https://www.prisma.io/)
+
+| Pros                                | Cons                                                |
+| ----------------------------------- | --------------------------------------------------- |
+| Great types                         | Entire schema is in one file                        |
+| Works great with tRPC               | Schema is written in its own language               |
+| Simple but powerful schema language | Relies on code-gen to generate types for Typescript |
+
+---
+
+### OrchidORM
 
 [Website (https://orchid-orm.netlify.app)](https://orchid-orm.netlify.app)
 
@@ -38,7 +38,7 @@ Another typesafe ORM, like a mix between prisma and typeorm
 
 ---
 
-## TypeORM
+### TypeORM
 
 [Website (https://typeorm.io/)](https://typeorm.io/)
 
@@ -50,10 +50,23 @@ Another typesafe ORM, like a mix between prisma and typeorm
 
 ---
 
-## Sequelize
+### Sequelize
 
 [Website (https://sequelize.org/)](https://sequelize.org/)
 
 | Pros                                       | Cons                        |
 | ------------------------------------------ | --------------------------- |
 | Great for simple setups without Typescript | Terrible Typescript support |
+
+
+<!-- ---
+
+## Rust
+
+TODO: prisma-client-rust
+
+---
+
+## Go
+
+TODO: Gorm -->

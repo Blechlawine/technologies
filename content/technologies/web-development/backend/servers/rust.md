@@ -16,6 +16,16 @@
 
 ---
 
+## Actix-web
+
+[Website (https://actix.rs/)](https://actix.rs/)
+
+[Github](https://github.com/actix/actix-web)
+
+A high-performance, easy to use web server for Rust
+
+---
+
 ## RSPC
 
 [Website (https://www.rspc.dev)](https://www.rspc.dev)

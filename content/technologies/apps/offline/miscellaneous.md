@@ -30,3 +30,11 @@ Zorin connect is a fork of KDE connect with a more modern looking mobile app and
 | Relatively easy to set up                                                  |                                                        |
 | You can use one device to control the other one (mouse and keyboard input) |                                                        |
 | Doesn't require a server/cloud connection                                  |                                                        |
+
+---
+
+## Kopia
+
+[Github](https://github.com/kopia/kopia)
+
+Cross-platform backup tool with client-side end-to-end encryption, compression and deduplication. With CLI and GUI
